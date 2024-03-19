@@ -11,3 +11,9 @@ I create two version
 
 - Version 1:[here](https://www.kaggle.com/code/hassaneskikri/titanic-project-version-1/notebook?scriptVersionId=167847960)
 - Version 2:[here](https://www.kaggle.com/code/hassaneskikri/titanic-v2-using-lazyclassifier?scriptVersionId=167848270)
+
+# 2. Predict Health Outcomes of Horses
+
+you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s3e22)
+
+- my solution is [here](https://www.kaggle.com/code/hassaneskikri/horse-health-prediction)
