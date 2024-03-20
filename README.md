@@ -17,3 +17,31 @@ I create two version
 you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s3e22)
 
 - my solution is [here](https://www.kaggle.com/code/hassaneskikri/horse-health-prediction)
+
+# 3. Multi-Class Prediction of Obesity Risk
+
+you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s4e2)
+
+- my solution is [here](https://www.kaggle.com/code/hassaneskikri/0-9154-accuracy-obesity-risk-season-4-episode)
+
+
+# 4. Binary Classification with a Bank Churn Dataset
+
+### The objective
+
+my task is to predict whether a customer continues with their account or closes it (e.g., churns).
+
+you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s4e1)
+
+I create two version
+
+- Version 1: [here]()
+- Version 2: [here]()
+
+# 5. Binary Classification with a Software Defects Dataset
+
+## The objective
+
+my task is to predict whether a customer continues with their account or closes it (e.g., churns). 
+
+you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s4e1)
