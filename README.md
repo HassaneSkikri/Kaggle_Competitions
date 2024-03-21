@@ -35,8 +35,8 @@ you can see the details for this competition [here](https://www.kaggle.com/compe
 
 I create two version
 
-- Version 1: [here]()
-- Version 2: [here]()
+- Version 1: [here](https://www.kaggle.com/code/hassaneskikri/binary-classification-with-a-bank-churn-dataset-v1)
+- Version 2: [here](https://www.kaggle.com/code/hassaneskikri/binary-classification-with-a-bank-churn-dataset-v2)
 
 # 5. Binary Classification with a Software Defects Dataset
 
@@ -45,3 +45,6 @@ I create two version
 my task is to predict whether a customer continues with their account or closes it (e.g., churns). 
 
 you can see the details for this competition [here](https://www.kaggle.com/competitions/playground-series-s4e1)
+
+- my solution is [here](https://www.kaggle.com/code/hassaneskikri/software-defect-classifier)
+
